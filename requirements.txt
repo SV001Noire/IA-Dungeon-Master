@@ -1,0 +1,7 @@
+# AI Dungeon Master — Dependencias
+# Instalar con: pip install -r requirements.txt
+
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.21.0
+openai>=1.0.0
